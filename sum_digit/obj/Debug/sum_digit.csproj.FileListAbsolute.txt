@@ -1,0 +1,8 @@
+c:\users\parse300\documents\visual studio 2012\Projects\sum_digit\sum_digit\bin\Debug\sum_digit.exe.config
+c:\users\parse300\documents\visual studio 2012\Projects\sum_digit\sum_digit\bin\Debug\sum_digit.exe
+c:\users\parse300\documents\visual studio 2012\Projects\sum_digit\sum_digit\bin\Debug\sum_digit.pdb
+c:\users\parse300\documents\visual studio 2012\Projects\sum_digit\sum_digit\obj\Debug\sum_digit.exe
+c:\users\parse300\documents\visual studio 2012\Projects\sum_digit\sum_digit\obj\Debug\sum_digit.pdb
+D:\New folder\sum_digit\sum_digit\bin\Debug\sum_digit.exe.config
+D:\New folder\sum_digit\sum_digit\obj\Debug\sum_digit.exe
+D:\New folder\sum_digit\sum_digit\obj\Debug\sum_digit.pdb
